@@ -15,6 +15,11 @@
 ## 💡 About the project
 Memory Game, also known as the Concentration card game or Matching Game, is a simple card game where you need to match pairs by turning over 2 cards at a time. This project is the Coding Challenge of JS Game Developer Bootcamp, [Digital Innovation One]((https://web.digitalinnovation.one/home)).
 
+<p align="center">
+	<a href="https://mewmewdevart.github.io/Game-MemoryCard/">Play the game</a> 
+</p>
+
+
 ## 📁 Files/
 * ```index.html``` 
 * ```assets/```
