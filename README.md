@@ -1,24 +1,39 @@
-# Game-MemoryCards
+<h1 align="center">
+ Memory Game
+</h1>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123523404-a9150700-d699-11eb-9e28-eb599e1357d0.png" alt="Logo Memory Game" width="35%"/>
-</P>
+	<b><i>Recreating Memory Game mechanics - Challenge of JS Game Developer Bootcamp, Digital Innovation One.</i></b><br>
+</p>
 
-⭐ Sobre o Projeto:
-O jogo **Bee Memory Game** faz parte do desafio/projeto proposto pela plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home) no Bootcamp de Javascript Game Developer, usando HTML5, CSS3, JAVASCRIPT e JQUERY.
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/Game-MemoryCard?color=4b88df" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/Game-MemoryCard?color=4b88df"/>
+	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/Game-MemoryCard?color=4b88df"/>
+</p>
 
-### ⚙️ Tecnologias Utilizadas:
+## 💡 About the project
+Memory Game, also known as the Concentration card game or Matching Game, is a simple card game where you need to match pairs by turning over 2 cards at a time. This project is the Coding Challenge of JS Game Developer Bootcamp, [Digital Innovation One]((https://web.digitalinnovation.one/home)).
+
+## 📁 Files/
+* ```index.html``` 
+* ```assets/```
+  * ```css/``` Just *.css scripts
+  * ```js/``` Just *.js scripts
+  * ```image/``` Images used in the game
+
+## ⚙️ Techs:
 - HTML5
 - CSS3
 - JAVASCRIPT
 
-### [🎮](https://emojipedia.org/video-game/) Links usados na criação:
-- Desafio: [Bootcamp Js Game Developer](https://web.digitalinnovation.one/track/javascript-game-developer)
+## 📋 Credits
 
-### :video_game: Print Screen:
-![screenBee](https://user-images.githubusercontent.com/50052600/123523588-e4640580-d69a-11eb-876a-5913387d909e.png)
+* [Bootcamp Js Game Developer](https://web.digitalinnovation.one/track/javascript-game-develope)
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/123523579-cf877200-d69a-11eb-938e-a4f8fb51a226.png" alt="Bee" width="25%"/>
+<img src="https://user-images.githubusercontent.com/50052600/123523579-cf877200-d69a-11eb-938e-a4f8fb51a226.png" alt="Bee" width="15%"/>
 </P>
-<p align="center"> Desenvolvido com 💜 por Larissa Cristina Benedito. </p>
+
+<p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
